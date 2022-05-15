@@ -31,7 +31,7 @@
 
 15 Firesheep (https://codebutler.github.io/firesheep/) - Free program for HTTP session hijacking attacks.
 
-16 Scapy (https://github.com/secdev/awesome-scapy) - A Python tool and library for low level packet creation and manipulation
+16 Scapy (https://github.com/secdev/awesome-scapy) - A Python tool and library for low level packet creation and manipulation 
 
 17 Amass (https://github.com/OWASP/Amass) - In-depth subdomain enumeration tool that performs scraping, recursive brute forcing, crawling of web archives, name altering and reverse DNS sweeping
 
